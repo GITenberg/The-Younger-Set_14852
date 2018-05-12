@@ -1,0 +1,29 @@
+_repo: The-Younger-Set_14852
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 14852-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chambers, Robert W. (Robert William)
+    alias: Chambers, Robert William
+    birthdate: 1865
+    deathdate: 1933
+    gutenberg_agent_id: '38191'
+    url: http://www.gutenberg.org/2009/agents/38191
+    wikipedia: http://en.wikipedia.org/wiki/Robert_W._Chambers
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14852'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: The Younger Set
+url: http://www.gutenberg.org/ebooks/14852
